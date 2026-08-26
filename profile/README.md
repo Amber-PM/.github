@@ -1,12 +1,9 @@
-<p align="center">
+<div align="center">
 	<a href="https://github.com/Amber-PM">
-		<img src=".github/readme/amberpm.png" width="128" height="128" alt="Amber Logo" title="Amber" />
+		<img src=".github/readme/amberpm.png" width="96" height="96" alt="Amber Logo" />
 	</a>
-</p>
-
-<p align="center">
-	<a href="https://discord.gg/k55gScjTs3"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+	<h1>Amber</h1>
+</div>
 
 Amber is an open-source ecosystem of projects for Minecraft, building high-performance server software, rendering engines, and low-level protocol tooling. We explore and leverage multiple language ecosystems including PHP, Rust, Kotlin, C++, and beyond to deliver modular, memory-efficient, and native-first solutions for Minecraft: Bedrock Edition.
 
